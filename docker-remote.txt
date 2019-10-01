@@ -12,4 +12,4 @@ Connecting to vm1
 Connecting to nodeg12
     ssh regress@nodeg12.englab.juniper.net -L localhost:12345:/var/run/docker.sock -N
     Open another terminal and export DOCKER_HOST="tcp://localhost:12345"
-    Open code from that termina
+    Open code from that terminal
